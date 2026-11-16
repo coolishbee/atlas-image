@@ -1,0 +1,20 @@
+{
+    "name": "Coolishbee.AtlasImage.Editor",
+    "rootNamespace": "Coolishbee.AtlasImage",
+    "references": [
+        "GUID:153531aa335e642b7bae162c97115e41",
+        "Unity.2D.Sprite.Editor",
+        "Unity.TextMeshPro"
+    ],
+    "includePlatforms": [
+        "Editor"
+    ],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}

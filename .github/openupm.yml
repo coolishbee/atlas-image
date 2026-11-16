@@ -1,0 +1,17 @@
+# 오픈유피엠 등록 저장소에 제출할 설정입니다. 이 파일만으로 등록되지는 않습니다.
+name: com.coolishbee.atlas-image
+displayName: UI Atlas Image
+description: 스프라이트 아틀라스 기반 이미지와 선택기·테두리 편집·변환 도구를 제공하는 유니티 UI 패키지입니다.
+repoUrl: https://github.com/coolishbee/atlas-image
+parentRepoUrl: https://github.com/robbie-111/atlas-image
+licenseSpdxId: MIT
+licenseName: MIT
+topics:
+  - gui
+gitTagPrefix: v
+gitTagIgnore: ''
+minVersion: 1.0.0
+trackingMode: git
+image: ''
+readme: main:Packages/com.coolishbee.atlas-image/README.md
+hunter: coolishbee
