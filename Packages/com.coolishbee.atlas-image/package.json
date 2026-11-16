@@ -2,7 +2,7 @@
     "name": "com.coolishbee.atlas-image",
     "version": "1.0.0",
     "displayName": "UI Atlas Image",
-    "description": "스프라이트 아틀라스와 이름으로 이미지를 표시하고, 스프라이트 선택기·테두리 편집기·이미지 변환 도구를 제공하는 유니티 UI 패키지입니다.",
+    "description": "A Unity uGUI component that displays sprites from a SpriteAtlas by name, with a sprite picker, border editor, and Image conversion tools.",
     "unity": "6000.0",
     "license": "MIT",
     "repository": {
@@ -23,7 +23,7 @@
     "samples": [
         {
             "displayName": "AtlasImage Sample",
-            "description": "아틀라스의 스프라이트를 표시하고 버튼으로 스프라이트 이름을 변경하는 예제입니다.",
+            "description": "A sample that displays atlas sprites and switches them by name using UI buttons.",
             "path": "Samples~/AtlasImageSample"
         }
     ],
